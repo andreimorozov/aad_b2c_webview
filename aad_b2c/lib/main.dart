@@ -1,5 +1,4 @@
 import 'package:aad_b2c_webview/aad_b2c_webview.dart';
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
 void main() {
